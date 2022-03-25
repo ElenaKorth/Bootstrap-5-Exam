@@ -2,6 +2,7 @@ html, body {
     height: 100%;
     font-size: 1rem;
     font-family: 'Nunito', sans-serif;
+    
 }
 
 .gradient {
@@ -15,4 +16,20 @@ html, body {
     color: white;
     font-family: 'Nunito', sans-serif;
 }
+
+.feature {
+    color: white;
+    font-family: 'Nunito', sans-serif;
+}
+
+.feature ul {
+    padding-left: 2rem;
+    list-style-type: circle;
+}
+
+.feature ul li {
+    padding-left: 2rem;
+    
+}
+
 

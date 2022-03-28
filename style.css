@@ -32,4 +32,65 @@ html, body {
     
 }
 
+.icons {
+    font-family: 'Nunito', sans-serif;
+}
+
+.icon {
+    color: white;
+    height: 5rem;
+    width: 5rem;
+    font-size: 1.75rem;
+    border-radius: 100%;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.gallery {
+    background-color: lavenderblush;
+    font-family: 'Nunito', sans-serif;
+}
+
+.gallery img {
+    border-radius: 5%;
+    height: 650px; 
+}
+
+.square {
+   height: 425px;
+   width: 425px; 
+   border-radius: 5%;
+}
+
+.services {
+    color: white;
+    font-family: 'Nunito', sans-serif;
+}
+
+.border {
+    border-radius: 5%;
+}
+
+.center {
+    text-align: center;
+}
+
+footer {
+    color: white;
+    font-size: 1rem;
+    margin: 0;
+    padding: 1rem;
+    font-family: 'Nunito', sans-serif;
+}
+
+.contact {
+    font-family: 'Nunito', sans-serif;
+}
+
+.a {
+    color: white;
+    text-decoration: none;
+}
+
 
